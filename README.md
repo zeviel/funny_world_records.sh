@@ -3,6 +3,6 @@ Mobile-API for [Funny World Records](https://play.google.com/store/apps/details?
 
 ## Example
 ```bash
-source ./wisdom_bytes.sh
+source ./funny_world_records.sh
 get_contents
 ```
